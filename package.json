@@ -1,0 +1,19 @@
+{
+  "name": "first-node-app",
+  "version": "1.0.0",
+  "description": "This is my first node app hello world using express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Hello",
+    "World",
+    "App"
+  ],
+  "author": "Holliday",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
