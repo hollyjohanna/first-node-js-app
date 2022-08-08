@@ -1,0 +1,4 @@
+cors removes errors on the page
+express goes hand in hand with node.js
+nodemon refreshes the server when we save our project for easier use (runs the app and refreshes when we save)
+npm will run scripts with npm run

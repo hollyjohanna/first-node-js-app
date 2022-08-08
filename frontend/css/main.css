@@ -109,3 +109,7 @@ p {
   margin-bottom: auto;
   margin-left: 6px;
 }
+
+#dino-result .dino-cards {
+  background-color: aqua;
+}
